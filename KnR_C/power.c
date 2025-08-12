@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/* Includes an example of 2 and -3 up to the ninth power, 
+the side prints the iteration number we are currently on */
+
 int power(int m, int n);
 
 int main()
