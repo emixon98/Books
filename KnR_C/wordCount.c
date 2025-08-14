@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* char input and output with getchar() and putchar() */
+
 #define IN 1
 #define OUT 0
 

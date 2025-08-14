@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* array intro */
+
 int main()
 {
     int c, i , nwhite, nother;
